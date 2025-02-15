@@ -1,6 +1,10 @@
 # State
 State Pattern Assignment
 
+UML Diagram
+![State](https://github.com/user-attachments/assets/31a561ad-1851-4fcd-a70d-6c7722351d94)
+
+
 OUTPUT
 ![image](https://github.com/user-attachments/assets/01a53abd-8ccc-471b-9c6a-399925986c22)
 
